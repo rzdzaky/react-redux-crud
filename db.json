@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple",
+      "price": "200"
+    },
+    {
+      "id": 2,
+      "title": "Banana",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "title": "Melon",
+      "price": 399
+    },
+    {
+      "id": 4,
+      "title": "Pinapple",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "title": "Orange",
+      "price": 599
+    }
+  ]
+}
